@@ -2,10 +2,10 @@ Filósofos Comensales 0.9
 ================================
 
 Aplicación desarrollada en Java que muestra un prototipo de solución para el problema 
-de concurrencia y sincronicidad de recursos, conocido como la cena de los filósofos o 
+de concurrencia y sincronicidad de recursos conocido como la cena de los filósofos o 
 filósofos comensales. El programa nos muestra de manera gráfica una representación
 interactiva de como simultanear procesos de manera satisfactoria sin problemas de
-sincronización.
+sincronización mediante programación concurrente usando semáforos e hilos.
 
 El proyecto hace uso de una interfaz gráfica y diferentes elementos multimedia para dotar
 a la aplicación de un mayor atractivo visual.

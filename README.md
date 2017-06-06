@@ -1,4 +1,4 @@
-Filósofos Comensales 0.9
+Filósofos Comensales 0.91
 ================================
 
 Aplicación desarrollada en Java que muestra un prototipo de solución para el problema 

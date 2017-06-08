@@ -10,7 +10,7 @@ sincronización mediante programación concurrente usando semáforos e hilos.
 El proyecto hace uso de una interfaz gráfica y diferentes elementos multimedia para dotar
 a la aplicación de un mayor atractivo visual.
 
-Para facilitar la puesta en marcha de la aplicación se proporciona un ejecutable '.jar' con el 
+Para facilitar la puesta en marcha de la aplicación se proporciona un ejecutable .jar con el 
 proyecto construido y listo para ser ejecutado de manera gráfica.
 
 ## Requisitos
